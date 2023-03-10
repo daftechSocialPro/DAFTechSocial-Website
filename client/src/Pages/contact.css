@@ -1,0 +1,62 @@
+.contactmessagebutton{
+
+
+   
+    right: 0;
+    top: 0;
+    background-color: #2980B9;
+    color: #ffffff;
+    border: none;
+    height: 50px;
+    padding: 0 30px;
+    border-radius: 5px;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    line-height: 50px;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+
+
+}
+.info{
+    border-top: 3px solid #2980B9;
+    border-bottom: 3px solid #2980B9;
+    padding: 30px;
+        background: #fff;
+        width: 100%;
+        box-shadow: 0 0 24px 0 rgb(0 0 0 / 12%)
+}
+.googlemap {
+    font-size: 20px;
+    color: #2980B9;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background: #eaf6ed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+}
+.info h4{    padding: 0 0 0 60px;
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 5px;
+        color: #222222;}
+.info p{
+            padding: 0 0 10px 60px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #555555;
+}
+        
+.messageBOx{
+    width: 100%;
+    border-top: 3px solid #2980B9;
+    border-bottom: 3px solid #2980B9;
+    padding: 30px;
+    background: #fff;
+    box-shadow: 0 0 24px 0 rgb(0 0 0 / 12%);
+}
